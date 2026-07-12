@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# YOLO and Deep Learning
+runs/
+models/
+*.pt
+*.pth
+
+# Large Media Files
+*.mp4
+*.avi
+*.mkv
+
+# Generated Outputs
+*.jpg
+*.jpeg
+*.png
+output_*/
+screenshot_*/
+
+# OS Files
+.DS_Store
+Thumbs.db
